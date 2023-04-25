@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Enoch France</h1>
-<h3 align="center">I am passionate about building and managing scalable and resilient systems. I enjoy working with cutting-edge technologies and automation tools to streamline software development and delivery pipelines. My expertise includes cloud computing, containerization, configuration management, and continuous integration/continuous delivery (CI/CD). With a strong focus on collaboration and communication, I strive to create a culture of continuous improvement and innovation in every team I work with.</h3>
+<h3 align="center">I am passionate about building and managing scalable and resilient systems. I enjoy working with cutting-edge technologies and automation tools to streamline software development and delivery pipelines.</h3>
+<h3 align="center">My expertise includes cloud computing, containerization, configuration management, and continuous integration/continuous delivery (CI/CD). With a strong focus on collaboration and communication, I strive to create a culture of continuous improvement and innovation in every team I work with.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niifrance&label=Profile%20views&color=0e75b6&style=flat" alt="niifrance" /> </p>
 
