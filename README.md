@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Enoch France! 👋</h1>
 
-<h3 align="left">
+<h3 align="left" style="text-align: justify;">
   I'm enthusiastic about building and managing systems that are scalable and reliable. Using modern technologies and automation tools, I aim to simplify software development and delivery processes to make workflows more efficient.
 </h3>
 
@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=niifrance&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
-<h3 align="center">
+<h3 align="left" style="text-align: justify;">
   My experience includes working with cloud services, using containers like Docker, managing configurations, and setting up continuous integration and continuous delivery (CI/CD) pipelines. I'm committed to promoting teamwork, encouraging ongoing improvement, and helping teams innovate effectively.
 </h3>
 
