@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=niifrance&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=niifrance&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
 <h3 align="center">
@@ -56,7 +56,7 @@
 
 <h3>GitHub Stats:</h3>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=niifrance&show_icons=true&locale=en&layout=compact" alt="GitHub stats for Enoch France" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=niifrance&show_icons=true&locale=en&layout=compact&theme=dark" alt="GitHub stats for Enoch France" />
 </p>
 
 ---
