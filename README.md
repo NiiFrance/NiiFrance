@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Enoch France! 👋</h1>
 
 <h3 align="center">
-  I'm passionate about building and managing scalable, resilient systems. Leveraging cutting-edge technologies and automation tools, I streamline software development and delivery pipelines to create efficient workflows.
+  I'm enthusiastic about building and managing systems that are scalable and reliable. Using modern technologies and automation tools, I aim to simplify software development and delivery processes to make workflows more efficient.
 </h3>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="center">
-  My expertise lies in cloud computing, containerization, configuration management, and continuous integration/continuous delivery (CI/CD). I am driven by the desire to foster collaboration, create a culture of continuous improvement, and help teams innovate at scale.
+  My experience includes working with cloud services, using containers like Docker, managing configurations, and setting up continuous integration and continuous delivery (CI/CD) pipelines. I'm committed to promoting teamwork, encouraging ongoing improvement, and helping teams innovate effectively.
 </h3>
 
 ---
